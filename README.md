@@ -1,11 +1,8 @@
-# glm-tool-v6
-glm抢购学习资料v6，手动点验证码，但是去除了所有非必须的所有手动操作
-
-# V8版本-0手动点击
+# 如果需要更高版本，见下面链接(V8版本-0手动点击)
 https://my.feishu.cn/wiki/X978w20xSikUJGkTVqhcMWKcnQg
 
 
-# GLM Coding 抢购助手 v6.0
+## GLM Coding 抢购助手 v6.0
 
 智谱 BigModel GLM Coding 套餐自动抢购 Tampermonkey 脚本。
 
