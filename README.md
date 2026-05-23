@@ -2,9 +2,7 @@
 https://my.feishu.cn/wiki/X978w20xSikUJGkTVqhcMWKcnQg
 
 
-## 进入正题
-GLM Coding 抢购助手 v6.0, 学习资料，禁止用于真实抢购
-
+# GLM Coding 抢购助手 v6.0
 智谱 BigModel GLM Coding 套餐自动抢购 Tampermonkey 脚本。
 
 ## 功能
